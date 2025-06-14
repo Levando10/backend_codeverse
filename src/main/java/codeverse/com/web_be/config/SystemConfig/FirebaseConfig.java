@@ -17,6 +17,7 @@ import java.io.File;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.util.Arrays;
+import java.util.Base64;
 
 @Configuration
 public class FirebaseConfig {
